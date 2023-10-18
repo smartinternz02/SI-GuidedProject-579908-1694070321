@@ -5,4 +5,4 @@ here is the google drive link for the pretrained model  : https://drive.google.c
 
 The video demonstration link of the project
 
-https://drive.google.com/file/d/1J4ejPPWWJniSk7xJovrHkGDKvVZ4usxu/view?
+https://drive.google.com/file/d/1J4ejPPWWJniSk7xJovrHkGDKvVZ4usxu/view
